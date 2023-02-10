@@ -3,7 +3,7 @@ Selenium Advanced Certification
 
 Step 1: Open code workspace
 
-Step2 : In the terminal run command - mvn clean install
+Step2 : In the terminal run command - mvn clean test -Dsurefire.suiteXmlFiles=/workspace/LambdaTestAutomation/testng.xml
 
 <a href="https://gitpod.io/#https://github.com/GuruprasadKini/LamdaTestSampleJava.git">
   <img
